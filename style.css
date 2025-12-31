@@ -1,0 +1,27 @@
+body {
+  font-family: "Times New Roman", Times, serif;
+  background-color: lightblue;
+  text-align: center;
+}
+
+div.ingredients {
+  text-align: center;
+}
+
+div.steps {
+  text-align: center;
+}
+
+ul {
+  display: inline-block;
+  text-align: left;
+}
+
+ol {
+  list-style-position: inside;
+}
+
+img {
+  max-width: 500px;
+  border-radius: 20px;
+}
